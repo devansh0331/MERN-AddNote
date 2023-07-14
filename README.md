@@ -2,6 +2,8 @@
 
 Add Note is a web application built using the MERN stack that allows users to add and keep their notes. Each user is assigned a unique UserID to ensure data privacy and organization.
 
+View LIVE : https://mern-add-note.web.app/
+
 ## Features
 
 - User registration and authentication: Users can create an account and log in to securely access their notes.
